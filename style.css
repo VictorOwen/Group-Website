@@ -155,8 +155,7 @@ footer {
 #main {
 padding: 2rem;
 margin: 0 auto;
-background-color:rgba(139, 137, 137, 0.1);
-background-image: url('image.jpg');
+background-color:hsla(140, 3%, 63%, 0.1);
 background-position: center;
 background-size: contain;
 }
